@@ -1,3 +1,16 @@
 body {
   margin: 0;
+  font-family: Roboto, 'Times New Roman', sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 60px;
+  width: auto;
+}
+
+.nav {
+  height: 60px;
 }
